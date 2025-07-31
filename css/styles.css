@@ -1054,7 +1054,17 @@ body, html {
     height: 16px;
   }
 
+  .contact-title {
+    padding: 0px;
+  }
+.contact-section {
+    padding: 10px;
+}
 
+.contact-title {
+
+    font-size: 25px;
+}
     .mobile-menu {
         position: fixed;
         top: 80px;
@@ -1358,6 +1368,23 @@ body, html {
         margin-left: 0;
         width: 320px;
     }
+
+  .contact-container{
+    padding: 0px;
+  }
+    .contact-section {
+    padding: 10px;
+    }
+
+    .contact-title {
+    font-size: 25px;
+    }
+
+    .contact-phone {
+        font-size: 25px;
+    }
+
+
 }
 
 /* Скрываем мобильное меню на десктопе */
