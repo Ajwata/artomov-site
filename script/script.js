@@ -43,9 +43,9 @@ document.addEventListener("DOMContentLoaded", function () {
 document.addEventListener("DOMContentLoaded", function () {
     // Массив: каждому изображению — своя ссылка
     const slides = [
-        { img: '/assets/1.jpg', link: 'https://hiitlt.com/', alt: 'Робота 1' },
-        { img: '/assets/2.jpg', link: 'https://grandvoyage-transfers.com/', alt: 'Робота 2' },
-        { img: '/assets/3.jpg', link: 'https://vidlyry-jeans.com/', alt: 'Робота 3' },
+        { img: 'assets/1.jpg', link: 'https://hiitlt.com/', alt: 'Робота 1' },
+        { img: 'assets/2.jpg', link: 'https://grandvoyage-transfers.com/', alt: 'Робота 2' },
+        { img: 'assets/3.jpg', link: 'https://vidlyry-jeans.com/', alt: 'Робота 3' },
       
     ];
 
